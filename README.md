@@ -1,8 +1,6 @@
 # VeganLemur
 ## Table of Content
 
-***
-
 - [Introduction](#introduction)
 
 ### Introduction
